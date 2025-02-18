@@ -10,10 +10,10 @@
 - **账户管理**：支持多账户选择和切换。
 - **图表分析**：通过图表呈现财务收支变化，帮助用户直观了解财务状况。
 
-<img src="./miniprogram/images/qrcode.png" width="300" />
+<img src="https://github.com/lfgyx/cbook_miniprogram/blob/59037181762ff625cf5ff6885b38b86e6dc2c557/miniprogram/images/qrcode.png" width="300" />
 <div>
-   <img src="./miniprogram/images/example1.jpg" width="300" />
-   <img src="./miniprogram/images/example2.jpg" width="300" />
+   <img src="https://github.com/lfgyx/cbook_miniprogram/blob/59037181762ff625cf5ff6885b38b86e6dc2c557/miniprogram/images/example1.jpg" width="300" />
+   <img src="https://github.com/lfgyx/cbook_miniprogram/blob/59037181762ff625cf5ff6885b38b86e6dc2c557/miniprogram/images/example2.jpg" width="300" />
 </div>
 
 

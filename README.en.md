@@ -11,10 +11,10 @@ This is a simple and practical expense tracker mini program designed to help use
 - **Account Management**: Support multiple account selection and switching.
 - **Chart Analysis**: Present financial income and expense changes through charts to help users intuitively understand their financial status.
 
-<img src="./miniprogram/images/qrcode.png" width="300" />
+<img src="https://github.com/lfgyx/cbook_miniprogram/blob/59037181762ff625cf5ff6885b38b86e6dc2c557/miniprogram/images/qrcode.png" width="300" />
 <div>
-   <img src="./miniprogram/images/example1.jpg" width="300" />
-   <img src="./miniprogram/images/example2.jpg" width="300" />
+   <img src="https://github.com/lfgyx/cbook_miniprogram/blob/59037181762ff625cf5ff6885b38b86e6dc2c557/miniprogram/images/example1.jpg" width="300" />
+   <img src="https://github.com/lfgyx/cbook_miniprogram/blob/59037181762ff625cf5ff6885b38b86e6dc2c557/miniprogram/images/example2.jpg" width="300" />
 </div>
 
 ## Technology Stack
